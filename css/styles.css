@@ -1,0 +1,16 @@
+body{
+  background-color:#BFA2DB;
+}
+
+hr{
+  background-color:#FF2626;
+  border-top: 100px;
+  width: 30%;
+}
+.Mani:hover{
+  background-color:#FCD8D4;
+}
+
+.Hina:hover{
+    background-color:#64C9CF;
+}
